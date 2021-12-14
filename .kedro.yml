@@ -1,0 +1,6 @@
+context_path: enaforecast.run.ProjectContext
+project_name: "enaforecast"
+project_version: "0.16.6"
+package_name: "enaforecast"
+hooks:
+  - enaforecast.hooks.project_hooks
