@@ -65,7 +65,7 @@ git clone https://github.com/rodra-go/enaforecast.git
 
 ## 3. Docker
 
-After installing Docker in your machine (see section [2](#2-docker)), open a terminal (for Windows' users, the **Windows Power Shell**)
+After installing Docker in your machine (see section [2](#2-setup)), open a terminal (for Windows' users, the **Windows Power Shell**)
 to run the following commands.
 
 ### 3.1. Build Docker Image from Dockerfile
